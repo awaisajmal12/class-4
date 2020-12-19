@@ -16,7 +16,7 @@ function App() {
         update counter </button>
         <br/>
         <button onClick= {()=> setlight(!islight) }>
-          update light 
+          light 
         </button>
     </div>
   );
