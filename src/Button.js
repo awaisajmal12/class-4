@@ -1,6 +1,6 @@
 // eslint-disable-next-line
 import react from 'react';
-import Logo from './king.png';
+import king from './king.jpg';
 
 export function Button(props) {
 
