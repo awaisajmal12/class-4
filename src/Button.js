@@ -8,7 +8,6 @@ export function Button(props) {
 
         <h1>
             {props.counter}
-            <img src={king} alt='love' />
         </h1>   
     )
 }
