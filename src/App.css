@@ -10,8 +10,22 @@ background-size : auto;
   background-size: auto;
 }
 button{
-  width: 80px;
-  height: 40px;
-  background-color: blanchedalmond;
-  color: black;
+  width: 100px;
+  height: 50px;
+  margin:5px;
+  justify-content: 'center';
+  align-items: center;
+  border-radius: 500px;
+  font-size: 14px;
+  text-shadow: 555px;
+  text-emphasis-style: transparent;
+  text-emphasis-color: chartreuse;
+  font-family: cursive;
+  font-stretch: semi-condensed;
+  font-style: oblique;
+  font-stretch: wider;
+  font-size-adjust: inherit;
+  font-variant-ligatures: historical-ligatures;
+  background-image: url(./25888.jpg);
+  color: rgb(10, 10, 10);
 }
