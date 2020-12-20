@@ -1,7 +1,17 @@
 .box {
- height :430px;
- background-color: darkblue;
+ 
+ background-image: url(./milky.jpg);
+ background-repeat: no-repeat;
+background-size : auto;
 }
 .light {
   background-image: url(./king.jpg) ;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+button{
+  width: 80px;
+  height: 40px;
+  background-color: blanchedalmond;
+  color: black;
 }

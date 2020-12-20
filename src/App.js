@@ -8,8 +8,8 @@ function App() {
   let [islight, setlight] = useState(true)
 
   return (
-    <div className= {`box ${islight ? 'light' : 'red'}`}>
-        <h1> light = {islight ? 'On' : 'Off'}</h1>
+    <div className= {` ${islight ? 'light' : 'box'}`}>
+        <h1> light = {islight ? 'On' : 'Off'} </h1>
      <Button counter={count}/>
       <br/>
       <button onClick={()=> setCount(++count) }>
